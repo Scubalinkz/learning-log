@@ -1,4 +1,4 @@
-Welcome! This repository is a personal record of my journey into Python programming, created as part of my transition from biomedical science into the tech and data space.
+Welcome, my name is Shania! This repository is a personal record of my journey into Python programming, created as part of my transition from biomedical science into the tech and data space.
 
 I'm currently using:
 - [FreeCodeCamp: Scientific Computing with Python](https://www.freecodecamp.org/learn/)
